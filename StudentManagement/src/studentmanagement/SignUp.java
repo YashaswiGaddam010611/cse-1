@@ -29,7 +29,7 @@ public class SignUp {
 	private static final String DRIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
 	private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/studentregistration";
 	private static final String USER_NAME = "root";
-	private static final String PASSWORD = "Yashaswi9@";
+	private static final String PASSWORD = "yourPassword";
 
 	/**
 	 * Launch the application.
